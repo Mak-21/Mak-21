@@ -13,7 +13,7 @@ I am a second-year software engineering student at University of Calgary, passio
 I also showcase my coding passion on my youtube channel to teach beginners on how to code:
 
 
-- 🎥[YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
+- 🎥[YouTube](https://www.youtube.com/@codingwithmak)
 
 
 ## 🌐 Connect with me:
