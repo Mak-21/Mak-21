@@ -5,7 +5,7 @@ I am a second-year software engineering student at University of Calgary, passio
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring AWS Technologies [scikit-learn](https://www.aws.training)
+- 🤖 Exploring AWS Technologies [AWS-Training](https://www.aws.training)
 - 💻 Building my Portfolio at UofC
 
 
