@@ -8,7 +8,12 @@ I am a second-year software engineering student at University of Calgary, passio
 - 🤖 Exploring AWS Technologies [AWS-Training](https://www.aws.training)
 - 💻 Building my Portfolio at UofC
 
+## 🎓 About Me
 
+I also showcase my coding passion on my youtube channel to teach beginners on how to code:
+
+
+- 🎥[YouTube]([https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg](https://www.youtube.com/@codingwithmak))
 
 
 ## 🌐 Connect with me:
