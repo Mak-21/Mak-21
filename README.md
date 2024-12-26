@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammed Azmath Khan</h1>
 
 # 💫 About Me:
-I am a second-year software engineering student at University of Calgary, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a third-year software engineering student at University of Calgary, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
