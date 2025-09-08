@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Mohammed Azmath Khan</h1>
 
 # 💫 About Me:
-I am a third-year software engineering student at University of Calgary, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Software Engineering intern at the University of Calgary, passionate about exploring the realms of coding, machine learning, and building robust applications. 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring AWS Technologies [AWS-Training](https://www.aws.training)
-- 💻 Building my Portfolio at UofC
+- 🤖 Robotics Process Automation Engineer interacting with our Human Capital Management, Finance, and Supply Chain, and related IT systems.
+- 💻 Building my Portfolio and building things that matter
 
 ## 🎓 About Me
 
